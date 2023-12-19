@@ -1,10 +1,11 @@
 {
  "rooms": [
    {
+          "id": "1123123-1231323",
           "title": "Kitchen",
           "windows": [
             {
-              "id": 1,
+              "id": "1123123555-1231323",
               "width": 1200,
               "height": 900,
               "direction": "SW",
@@ -16,10 +17,11 @@
           ]
   },
 {
+          "id": "89gufsd89f98sdf",
           "title": "Bathroom",
           "windows": [
             {
-              "id": 1,
+              "id": "113-1223",
               "width": 900,
               "height": 700,
               "direction": "N",
@@ -29,7 +31,7 @@
               "vent": 0
             },
             {
-              "id": 2,
+              "id": "112316666623",
               "width": 1500,
               "height": 650,
               "direction": "W",
